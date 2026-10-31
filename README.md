@@ -111,11 +111,26 @@ Netlify Deployment
 
 ## Development & Acknowledgements
 
-<img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" alt="Claude logo" />
+<p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai-chatgpt/default.svg"
+    width="34"
+    height="34"
+    alt="ChatGPT"
+    style="filter: brightness(0) invert(1);"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.simpleicons.org/claude/D97757"
+    width="30"
+    height="30"
+    alt="Claude"
+  />
+</p>
 
-This website was developed with the assistance of **Claude by Anthropic**, using AI-assisted website generation and development workflows.
+This website was developed with the assistance of **Claude by Anthropic**, supporting website code generation, design implementation and development workflows.
 
-Claude supported website code generation, design implementation and development-related tasks.
+**ChatGPT by OpenAI** was used for image generation and visual assets.
 
 The project was created for AquaCare Bhubaneswar and is maintained through GitHub and Netlify.
 
