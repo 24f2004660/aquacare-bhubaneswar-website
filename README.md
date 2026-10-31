@@ -111,11 +111,11 @@ Netlify Deployment
 
 ## Development & Acknowledgements
 
-<img src="https://cdn.simpleicons.org/anthropic" width="22" height="22" alt="Anthropic logo" />
+<img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" alt="Claude logo" />
 
 This website was developed with the assistance of **Claude by Anthropic**, using AI-assisted website generation and development workflows.
 
-Claude was used to support the generation of website code, design implementation and development-related tasks.
+Claude supported website code generation, design implementation and development-related tasks.
 
 The project was created for AquaCare Bhubaneswar and is maintained through GitHub and Netlify.
 
